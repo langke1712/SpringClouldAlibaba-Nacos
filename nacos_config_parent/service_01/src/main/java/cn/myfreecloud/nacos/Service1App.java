@@ -12,5 +12,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Service1App {
     public static void main(String[] args) {
         SpringApplication.run(Service1App.class, args);
+        System.out.println("好的1");
     }
 }
